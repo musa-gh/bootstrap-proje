@@ -109,3 +109,15 @@ footer i:hover {
 .col-md-4 i {
   color: #dc3545;
 }
+section#courses .nav-link {
+  color: white;
+}
+
+section#courses .nav-item .nav-link.active {
+  background-color: #ffc107;
+}
+section#courses .row img {
+  border: 5px solid #dc3545;
+  border-radius: 5px;
+  max-width: 100%;
+}
